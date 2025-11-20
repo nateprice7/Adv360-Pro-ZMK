@@ -138,7 +138,7 @@
         &trans &trans &trans &trans &trans &trans &trans                                           &trans &jbcont  &trans        &trans        &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans &trans        &tog 3 &trans &trans &tog 3        &trans &jbdebug &vim_save     &trans        &trans  &trans  &trans
         &trans &trans &trans &trans &trans &trans                      &trans &trans                      &jbrun   &trans        &trans        &trans  &trans  &trans
-        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans                 &tmx_cmd LBKT &tmx_cmd RBKT &trans  &trans  &trans
+        &trans &trans &trans &trans &trans               &trans &trans &trans &trans &trans &trans                 &tmx_cmd LEFT &tmx_cmd RIGHT &tmx_cmd LBKT  &tmx_cmd RBKT  &trans
       >;
     };
     mod {
